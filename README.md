@@ -6,6 +6,17 @@ I build robust software solutions for desktop, web and mobile platforms. Passion
 
 ---
 
+## 🚀 What I Build
+
+- **Desktop Softwares** - Business-level fluid and robust software solutions
+- **Fullstack Web Applications** - End-to-end solutions with modern frameworks
+- **Mobile Applications** - Cross-platform and native mobile experiences
+- **REST/GraphQL APIs** - Scalable backend services and microservices
+- **DevOps Pipelines** - CI/CD and containerization
+- **Database Design** - Efficient data modeling and optimization
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -34,17 +45,6 @@ I build robust software solutions for desktop, web and mobile platforms. Passion
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 🚀 What I Build
-
-- **Desktop Softwares** - Business-level fluid and robust software solutions
-- **Fullstack Web Applications** - End-to-end solutions with modern frameworks
-- **Mobile Applications** - Cross-platform and native mobile experiences
-- **REST/GraphQL APIs** - Scalable backend services and microservices
-- **DevOps Pipelines** - CI/CD and containerization
-- **Database Design** - Efficient data modeling and optimization
 
 ---
 

@@ -1,6 +1,10 @@
-# 👋 Hello, I'm Safidy !
-
+# 👋 Hello, I'm Safidy ! 
 **Fullstack Developer | Software Engineer | DevOps Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safidy-andriantsoa-45a795236)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://safidy.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arindranto.safidy@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+261348910678)
 
 I build robust software solutions for desktop, web and mobile platforms. Passionate about creating efficient, scalable applications with clean architecture and best practices.
 
@@ -53,6 +57,7 @@ I build robust software solutions for desktop, web and mobile platforms. Passion
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safidy-andriantsoa-45a795236)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://safidy.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arindranto.safidy@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+261348910678)
 
 ---
 
